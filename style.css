@@ -1,0 +1,17 @@
+:root {
+	--ui-bg-color: #a7a7a7;
+	--ui-border-color: #404040;
+	--ui-bg-hover-color: #d7d7d7;
+	--ui-bg-hover-color: #c7c7c7;
+	--ui-text-color: #101010;
+
+}
+
+
+body{
+	background-color: #e7e7e7;
+}
+
+.page-center{
+	margin: 0px 25%;
+}
